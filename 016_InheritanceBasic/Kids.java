@@ -21,5 +21,7 @@ public class Kids extends ManKind {
         this.yearsOld = yearsOld;
     }
     
-    
+    public void employeed() {
+        System.out.println("Kids should study and have no job.");
+    }   
 }
